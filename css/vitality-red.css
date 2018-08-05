@@ -760,3 +760,15 @@ a.text-primary {
 
 .owl-carousel.owl-theme.portfolio-carousel .owl-controls .owl-next {
   right: 0; }
+
+/*.dropdown-menu li:hover .sub-menu {
+  visibility: visible;
+}*/
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown .dropdown-menu {
+  color: #EF4035;
+}
