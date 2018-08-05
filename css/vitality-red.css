@@ -765,10 +765,16 @@ a.text-primary {
   visibility: visible;
 }*/
 
-.dropdown:hover .dropdown-menu {
+/*.dropdown:hover .dropdown-menu {
   display: block;
+}*/
+
+.dropdown .dropdown-menu a {
+  background-color: #292b2c;
+  color: white;
 }
 
 .dropdown .dropdown-menu {
-  color: #EF4035;
+  background-color: #292b2c;
+  color: white;
 }
