@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	
+
+	<title>Paani | Bringing Clean Water to Pakistan</title>
+	<link rel="icon" type="image/x-icon" href="img/agency/paani_icon.png"/>
+
+	<!-- Bootstrap core CSS -->
+	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+	<!-- Custom fonts for this theme -->
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,600,500,700,800,900' rel='stylesheet' type='text/css'>
+
+	<!-- Plugin CSS -->
+	<link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="vendor/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css">
+	<link href="vendor/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css">
+	<link href="vendor/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css">
+	<link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+	<link href="vendor/animate.css/animate.min.css" rel="stylesheet" type="text/css">
+	<link href="device-mockups/device-mockups.min.css" rel="stylesheet" type="text/css">
+
+	<!-- Custom styles for this theme -->
+	<!-- Uncomment the color scheme you want to use! Red is chosen by default! -->
+	<link href="css/vitality-red.css" rel="stylesheet" type="text/css">
+	<!-- <link href="css/vitality-aqua.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-blue.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-green.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-orange.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-pink.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-purple.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-tan.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-turquoise.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-yellow.css" rel="stylesheet" type="text/css"> -->
+
+	<!-- Temporary 
+container fix -->
+	<style>
+	.navbar-toggler {
+		z-index: 1;
+	}
+	
+	@media (max-width: 576px) {
+		nav > .container {
+			width: 100%;
+		}
+	}
+	.bigFont li{
+		font-size: 24px;
+	}
+	/*#Facts {
+	  background-color: #c6f1f2;
+	}*/
+	</style>
+
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+	<nav class="navbar fixed-top navbar-toggleable-md navbar-inverse navbar-expanded" id="mainNav">
+		<div class="container">
+			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				Menu <i class="fa fa-bars"></i>
+			</button>
+			<a class="navbar-brand page-scroll" href="index.html">
+				<img src="img/agency/new-paani.png" hspace="5px" class="img-fluid">
+				<!-- <div class="masthead-title">Paani پانی</div> -->
+				<!-- <img class="img-fluid" src="img/agency/logo_nolion.png" alt="">  -->
+			</a>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item">
+						<a class="nav-link page-scroll" href="index.html#Vision">Vision</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link page-scroll" href="index.html#Affiliates">Affiliates</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#page-top">Crisis</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="impact.html">Impact</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="about.html">About</a>
+					</li>
+					<li class="nav-item">
+						<a target="_blank" rel="noopener noreferrer" class="nav-link" href="https://goo.gl/forms/M3y2M5O5z2tPqGLn1">Join</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link page-scroll" href="about.html#contact">Contact</a>
+					</li>
+					<li class="nav-item">
+						<a target="_blank" rel="noopener noreferrer" class="btn btn-primary" href="https://google.com">Donate</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+  <section class="page-section">
+	<div class="container text-center wow fadeIn" style="visibility: visible; animation-name: fadeIn;"">
+	  <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.columns {
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+}
+
+.price {
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+
+.price:hover {
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+.price .header {
+    background-color: #0199E2;
+    color: white;
+    font-size: 25px;
+}
+
+.price li {
+    border-bottom: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+}
+
+.price .grey {
+    background-color: #eee;
+    font-size: 20px;
+}
+
+.button {
+    background-color: #0199E2;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+    .columns {
+        width: 100%;
+    }
+}
+</style>
+</head>
+<body>
+
+<h2 style="text-align:center">Paani's Projects</h2>
+<p style="text-align:center">These are the projects Paani has completed since inception.</p>
+
+<div class="columns">
+  <ul class="price">
+    <li class="header">First Well</li>
+    <li class="grey">Paani completed construction of it's first well in July 2018. The well is located in a rural village called Nooro Lithi, near the province of Sindh</li>
+    <li class="grey"><a href="google..com" class="button">View</a></li>
+  </ul>
+</div>
+
+<div class="columns">
+  <ul class="price">
+    <li class="header" style="background-color:#0199E2">Hygiene Drive</li>
+    <li class="grey">Paani collected over $600 USD in sanitation supplies in October 2018 to send to a Behbud Women's place in the province of Sindh.</li>
+    <li class="grey"><a href="#" class="button">View</a></li>
+  </ul>
+</div>
+
+<div class="columns">
+  <ul class="price">
+    <li class="header">Medical Drive</li>
+    <li class="grey">In collaboration with WHO, Paani will be sending a crate of equipment valued at $1 million USD to two health clinics that treat arsenic poisoning</li>
+    <li class="grey"><a href="#" class="button">View</a></li>
+  </ul>
+</div>
+
+</body>
+</html>
+
+	</div>
+  </section>
+  <!-- Footer -->
+  <footer class="footer" id="contact" style="background-image: url('img/agency/backgrounds/pk_water_bg.jpg')">
+	  <div class="container text-center">
+		  <p class="copyright">&copy; 2018 Paani پانی.</p>
+		  <p class="copyright">Built by Usmaan Jaffer</p>
+	  </div>
+  </footer>
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/tether/tether.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="vendor/owl-carousel/owl.carousel.js"></script>
+  <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+  <script src="vendor/vide/jquery.vide.min.js"></script>
+  <script src="vendor/mixitup/mixitup.min.js"></script>
+  <script src="vendor/wowjs/wow.min.js"></script>
+  <!-- Contact form JavaScript -->
+  <script src="js/contact_me.js"></script>
+  <script src="js/jqBootstrapValidation.js"></script>
+  <!-- Custom scripts for this theme -->
+  <script src="js/vitality.js"></script>
+  <script src="js/vitality-mixitup.js"></script>
+</body>
+</html>
