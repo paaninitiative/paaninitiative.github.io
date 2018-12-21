@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<title>Paani | Bringing Clean Water to Pakistan</title>
+	<link rel="icon" type="image/x-icon" href="img/agency/paani_icon.png"/>
+	<!-- Bootstrap core CSS -->
+	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<!-- Custom fonts for this theme -->
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,600,500,700,800,900' rel='stylesheet' type='text/css'>
+	<!-- Plugin CSS -->
+	<link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="vendor/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css">
+	<link href="vendor/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css">
+	<link href="vendor/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css">
+	<link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+	<link href="vendor/animate.css/animate.min.css" rel="stylesheet" type="text/css">
+	<link href="device-mockups/device-mockups.min.css" rel="stylesheet" type="text/css">
+	<!-- Custom styles for this theme -->
+	<!-- Uncomment the color scheme you want to use! Red is chosen by default! -->
+	<link href="css/vitality-red.css" rel="stylesheet" type="text/css">
+	<!-- <link href="css/vitality-aqua.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-blue.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-green.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-orange.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-pink.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-purple.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-tan.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-turquoise.css" rel="stylesheet" type="text/css"> -->
+	<!-- <link href="css/vitality-yellow.css" rel="stylesheet" type="text/css"> -->
+	<!-- Temporary navbar container fix -->
+	<style>
+	.navbar-toggler {
+		z-index: 1;
+	}
+	@media (max-width: 576px) {
+		nav > .container {
+			width: 100%;
+		}
+	}
+	.bigFont li{
+		font-size: 24px;
+	}
+	/*#Facts {
+	  background-color: #c6f1f2;
+	  }*/
+	</style>
+</head>
+<body>
+    <nav class="navbar fixed-top navbar-toggleable-md navbar-inverse navbar-expanded" id="mainNav">
+		<div class="container">
+			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				Menu <i class="fa fa-bars"></i>
+			</button>
+			<a class="navbar-brand page-scroll" href="#page-top">
+				<img src="img/agency/new-paani.png" hspace="5px" class="img-fluid">
+				<!-- <div class="masthead-title">Paani پانی</div> -->
+				<!-- <img class="img-fluid" src="img/agency/logo_nolion.png" alt="">  -->
+			</a>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item">
+						<a class="nav-link page-scroll" href="#Vision">Vision</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link page-scroll" href="#Affiliates">Affiliates</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="crisis.html">Crisis</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="projects.html">Projects</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="about.html">About</a>
+					</li>
+					<li class="nav-item">
+						<a target="_blank" rel="noopener noreferrer" class="nav-link" href="https://goo.gl/forms/M3y2M5O5z2tPqGLn1">Join</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link page-scroll" href="about.html#contact">Contact</a>					</li>
+					<li class="nav-item">
+						<a class="nav-link page-scroll" href="journal.html">Journal</a>	
+                 			</li>
+					<li class="nav-item">
+						<a target="_blank" rel="noopener noreferrer" class="btn btn-primary" href="https://google.com">Donate</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+    </nav>
+
+    <!-- TEMPLATE INSERT. REPLACE THE TWO THINGS THERE -->
+    <section class="page-section">
+		<div class="container text-center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+        </br>
+        <!-- Replace this with the title -->
+		<h2>Template Title</h2>
+        <hr class="colored">
+        <!-- Replace this with the information of the blog-->
+<h6 style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><strong><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #2d3b45; background-color: #ffffff; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Sonny Khan</span></strong></h6>
+                <h6 style=""line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: left;"">
+                        <strong>
+                                <span style=""font-size: 12pt; font-family: 'Times New Roman'; color: #2d3b45; background-color: #ffffff; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"">The beginning</span>
+                                </strong> </h6>
+             <p style=""line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-indent: 36pt; text-align: left;""><span style=""font-size: 12pt; font-family: 'Times New Roman'; color: #2d3b45; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"">I'm lost then I'm found, but it's torture being in love</span>
+</p>
+             <p style=""line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-indent: 36pt; text-align: left;""><span style=""font-size: 12pt; font-family: 'Times New Roman'; color: #2d3b45; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"">Suicide if you ever try to go</span>
+</p>
+             <p style=""line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-indent: 36pt; text-align: left;""><span style=""font-size: 12pt; font-family: 'Times New Roman'; color: #2d3b45; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"">Who am I</span>
+</p>
+                <h6 style=""line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: left;"">
+                        <strong>
+                                <span style=""font-size: 12pt; font-family: 'Times New Roman'; color: #2d3b45; background-color: #ffffff; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"">How</span>
+                                </strong> </h6>
+             <p style=""line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-indent: 36pt; text-align: left;""><span style=""font-size: 12pt; font-family: 'Times New Roman'; color: #2d3b45; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"">She took my heart and left me</span>
+</p>
+             <p style=""line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-indent: 36pt; text-align: left;""><span style=""font-size: 12pt; font-family: 'Times New Roman'; color: #2d3b45; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"">I think broken heart's contentious</span>
+</p>
+</section>
+
+
+
+
+
+
+<!-- Footer -->
+<footer class="footer hidden-sm-down" id="footer" style="background-image: url('img/agency/backgrounds/pk_water_bg.jpg')">
+    <div class="container text-center">
+        <!-- <div class="row">
+            <div class="col-md-4 footer-contact-details">
+                <h4><i class="fa fa-phone"></i> Call</h4>
+                <p>555-213-4567</p>
+            </div> -->
+            <!-- <div class="col-md-6 footer-contact-details">
+                <h4><i class="fa fa-map-marker"></i> Visit</h4>
+                <p>3481 Melrose Place
+                    <br>Beverly Hills, CA 90210</p>
+            </div>
+            <div class="col-md-12 footer-contact-details">
+                <h4><i class="fa fa-envelope"></i> Email</h4>
+                <p><a href="mailto:mail@example.com">paaniboard@umich.edu</a>
+                </p>
+            </div>
+        </div>
+        <div class="row footer-social">
+            <div class="col-lg-12">
+                <ul class="list-inline">
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fa fa-facebook fa-fw fa-2x"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fa fa-twitter fa-fw fa-2x"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://www.linkedin.com/company/Paani/"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fa fa-instagram fa-fw fa-2x"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div> -->
+        <p class="copyright">&copy; 2018 Paani پانی.</p>
+        <p class="copyright">Built by Usmaan Jaffer</p>
+    </div>
+</footer>
+
+<!-- <footer class="footer hidden-md-up" id="footer" style="background-image: url('img/agency/backgrounds/pk_background_mobile.jpg')">*/ -->
+    <footer class="footer hidden-md-up" id="footer"">
+        <div class="container text-center">
+        <!-- <div class="row">
+            <div class="col-md-4 footer-contact-details">
+                <h4><i class="fa fa-phone"></i> Call</h4>
+                <p>555-213-4567</p>
+            </div> -->
+            <!-- <div class="col-md-6 footer-contact-details">
+                <h4><i class="fa fa-map-marker"></i> Visit</h4>
+                <p>3481 Melrose Place
+                    <br>Beverly Hills, CA 90210</p>
+            </div>
+            <div class="col-md-12 footer-contact-details">
+                <h4><i class="fa fa-envelope"></i> Email</h4>
+                <p><a href="mailto:mail@example.com">paaniboard@umich.edu</a>
+                </p>
+            </div>
+        </div>
+        <div class="row footer-social">
+            <div class="col-lg-12">
+                <ul class="list-inline">
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fa fa-facebook fa-fw fa-2x"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fa fa-twitter fa-fw fa-2x"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://www.linkedin.com/company/Paani/"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fa fa-instagram fa-fw fa-2x"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div> -->
+        <p class="copyright" style="color: black">&copy; 2018 Paani پانی.</p>
+        <p class="copyright" style="color: black">Built by Usmaan Jaffer</p>
+    </div>
+</footer>
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/tether/tether.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!-- Plugin JavaScript -->
+<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+<script src="vendor/owl-carousel/owl.carousel.js"></script>
+<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="vendor/vide/jquery.vide.min.js"></script>
+<script src="vendor/mixitup/mixitup.min.js"></script>
+<script src="vendor/wowjs/wow.min.js"></script>
+<!-- Contact form JavaScript -->
+<script src="js/contact_me.js"></script>
+<script src="js/jqBootstrapValidation.js"></script>
+<!-- Custom scripts for this theme -->
+<script src="js/vitality.js"></script>
+<script src="js/vitality-mixitup.js"></script>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@paaniinitiative">
+<meta name="twitter:title" content="Paani">
+<meta name="twitter:description" content="Paani is a student organization at the University of Michigan @UMich that aims to improve the living standards in Pakistan by revitalizing the environment and implementing clean health technologies.">
+<meta name="twitter:image" content="https://paaninitiative.org/img/agency/twitter-preview.png">
+</body>
+</html>
