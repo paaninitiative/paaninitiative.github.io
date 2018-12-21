@@ -1,0 +1,45 @@
+************************THIS IS THE README FOR ADDING NEW ITEMS TO THE BLOG SECION***************
+************************
+************************
+************************
+STEP 1 ------------------------------------------------------
+
+For this step, you're going to need to create the new blog page. In order to do this find the file labeled:
+    "template.html"
+Create an exact copy of this file. Name it whatever you want .html REMEMBER THIS NAME
+ After doing this navigate to the copy's 'TEMPLATE INSERT' section
+Now continue to replace the "Template Title" with the new title
+and go ahead and replace everything encapsled in the <p> </p> elements.
+!!!! --- IMPORTANT --- Every <p> element represents a paragraph element. If you'd like to add another paragraph,
+    add another <p>...</p> element and add the new paragraph between the '...'.
+    Currently, the template is configured to have only two paragraphs.
+
+
+STEP 2 -------------------------------------------------------
+
+Now you're going to have to add this object into the blogs section. It's ordering will be completely up to you (explained later)
+First go ahead and navigate to the file labeled:
+    "blog.html"
+Now navigate to the BLOG LIST tag. 
+Find the <li> </li> element
+Now in order to add your element, you can do one of two options --> add it before or add it after
+
+In order to add it before, you're going to want to go ahead and copy the <li> </li> object and place it 
+before the current <li> object. 
+In order to add it after, go ahead and copy the <li> </li> object and place
+it after the current <li> object.
+
+Now you are going to want to do two things:
+
+    First you're going to want to replace the "Template" with the desired name of the blog
+    Second you're going to want to link the 'href' property to it, so find the href= and change the name from
+    "template.html" to whatever your new file's name is
+
+    ****DO NOT PUT YOUR BLOGS IN A NEW FOLDER, THIS WILL INVALIDATE ALL THE LINKS. PLEASE KEEP THEM IN THE MAIN DRIVE****
+
+    Now that you've changed the name, and linked it to your new file name. It should work perfectly!
+
+    If you have any questions:
+
+    Email: tbash@umich.edu
+    Phone: (517)499-8835
