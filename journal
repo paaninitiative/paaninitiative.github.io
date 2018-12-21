@@ -102,14 +102,17 @@
     <section class="page-section">
 		<div class="container text-center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
 		</br>
-		<h2>Paani Blog</h2>
+		<h2>Paani Journal</h2>
         <hr class="colored">
-        <!-- This is the blog list. Add in blog list under teh same template-->
+        <!-- This is the blog list. Add in blog list under the same template-->
         <ul class="list-unstyled">
             <!-- This part here needs to be copied every time-->
         <li>
             <a style="color: black; font-size: 20px;" href="template.html"> Template </a>
         </li>
+        <li>
+            <a style="color: black; font-size: 20px;" href="template.html"> Template </a>
+        </li>		
         <!-- This part above needs to be copied every time -->
         </ul>
 	</div>
